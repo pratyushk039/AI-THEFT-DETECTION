@@ -1,5 +1,9 @@
 # AI-THEFT-DETECTION
 This was a joint project and the code is a result of the cumulative effort of the team.
+
+User must have the appropriate .xml Haar Cascade file(s).
+
+
 QUESTION1 :
 Which Neural network and why 
 
